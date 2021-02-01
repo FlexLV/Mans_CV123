@@ -19,6 +19,7 @@ Vārds Uzvārds : __Ernests Dejus__
 ## Hobiji
 * Vasarā brīvaja laikā spēleju futbolu ar draugiem stadionā.
 * Ziemas laikā dodos uz sporta zāli un trenējos tur .
+* Vel es nodarbojos ar profesionāliem treniņiem spēlē Counter strike global offensive. Un piedalos daudz turnīros
 
 
 ## Pieredze programmēšana 
