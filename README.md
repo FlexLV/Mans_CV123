@@ -4,11 +4,11 @@ Ernests Dejus
 ![Mana bilde](https://user-images.githubusercontent.com/78017262/106464054-336d8c00-64a9-11eb-85a2-cecae7d9600f.jpg)
 
 ## Izglītība
-* Pamatskolas izglītība:
+# Pamatskolas izglītība:
 * __Andreja Pumpura Rīgas 11. Pamatskola__
-* [Pamatskola](https://ap11ps.lv/)
-* No 1 līdz  9 klasei
-* Pašreizēja izglītības iestāde
+[Links uz pamatskolas mājaslapu](https://ap11ps.lv/)
+* Mācijos  No 1 līdz  9 klasei
+# Pašreizēja izglītības iestāde
 * __Rīgas Valsts Tehnikums__
 * 1.Kurss Programmēšanas tehniķis
 * [Tehnikums](https://www.rvt.lv/)
@@ -22,6 +22,6 @@ Ernests Dejus
 
 
 ## Pieredze programmēšana 
-Esmu apguvis programmēšanas pamatus Python.
-Vel Scratch skolā mācija .
-Un nedaudz platformā youtube esmu apguvis javascript.
+* Esmu apguvis programmēšanas pamatus Python.
+* Vel esmu apguvis  Scratch kuru skolā mācija .
+* Un nedaudz platformā youtube esmu apguvis javascript.
