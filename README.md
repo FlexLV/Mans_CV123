@@ -1,5 +1,5 @@
 # Mans CV
-Ernests Dejus 
+Vārds Uzvārds : __Ernests Dejus__ 
 # Bilde
 ![Mana bilde](https://user-images.githubusercontent.com/78017262/106464054-336d8c00-64a9-11eb-85a2-cecae7d9600f.jpg)
 
